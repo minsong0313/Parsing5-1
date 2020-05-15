@@ -1,7 +1,6 @@
 package com.example.parsing5;
 
 import android.os.Bundle;
-import android.os.StrictMode;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.app.Activity;
